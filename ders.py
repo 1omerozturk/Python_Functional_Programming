@@ -1,25 +1,25 @@
-# print(1,2,3,4,5,sep="/")
+print(1,2,3,4,5,sep="/")
 # ÇIKTI:
 # 1/2/3/4/5
 
 
 
-# print(*"merhaba")
+print(*"merhaba")
 # ÇIKTI:
 # m e r h a b a
 
 
 
-# a="ben"
-# b="sen"
-# c="biz"
-# print("{},{},{}".format(a,b,c))
+a="ben"
+b="sen"
+c="biz"
+print("{},{},{}".format(a,b,c))
 # ÇIKTI:
 # ben,sen,biz
 
 
 
-# print(*"TBMM",sep=".")
+print(*"TBMM",sep=".")
 # ÇIKTI:
 # T.B.M.M
 
